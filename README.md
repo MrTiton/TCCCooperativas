@@ -16,9 +16,6 @@
 		- descricao
 		- valor total vindo da tbl_Triagem 
 
-  - Type some Markdown on the left
-  - See HTML in the right
-  - Magic
 
 **[MICROSERVIÇO]**
 ### Cadastro de Cooperado e Cooperativa

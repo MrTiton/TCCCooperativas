@@ -1,0 +1,5 @@
+com\titon\projeto\entities\ResponseModel.class
+com\titon\projeto\CadastroCooperativaApplication.class
+com\titon\projeto\entities\Cooperativa.class
+com\titon\projeto\service\CooperativaService.class
+com\titon\projeto\repository\CooperativaRepository.class
